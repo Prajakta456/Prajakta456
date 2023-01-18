@@ -4,3 +4,5 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: love listening to songs while working
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prajakta456 &theme=radical)
+
