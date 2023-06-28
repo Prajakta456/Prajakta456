@@ -1,5 +1,4 @@
-### Hi there 👋
-### 🔭 I’m currently working on learning data structures and algorithms
-- 🌱 I’m currently learning how to build my logic for solving problems
+### Hi there
+### 🔭 I am Prajakta Deokule and have pursued my Bachelor of Engineering degree in Computer Engineering from Cummins College of Engineering for Women, Pune. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: love listening to songs while working
